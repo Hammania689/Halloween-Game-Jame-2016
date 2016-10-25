@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{CF463F46-F91E-E6BF-6482-0E5D8EA53400}") = "Halloween Game Jam 2016", "Assembly-CSharp.csproj", "{D1F8BF33-E7C6-F1E0-D3A1-23E9CE2AA7AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1F8BF33-E7C6-F1E0-D3A1-23E9CE2AA7AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1F8BF33-E7C6-F1E0-D3A1-23E9CE2AA7AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1F8BF33-E7C6-F1E0-D3A1-23E9CE2AA7AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1F8BF33-E7C6-F1E0-D3A1-23E9CE2AA7AC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
